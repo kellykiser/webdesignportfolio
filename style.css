@@ -1,0 +1,85 @@
+#banner {
+   text-align:center;
+    border-bottom: thick solid #0c0c0c;
+    margin-bottom:2%;
+    
+}
+
+#main {
+    background-color:grey;
+    margin:0 auto;
+    width:90%;
+    border-radius: 25px;
+    padding:2%;
+    
+}
+
+
+.subheading {
+	
+	color:#fff;
+	font-weight:800;
+	font-size:33px;
+	margin-bottom:54px;}
+
+
+
+/*Menu Bar */
+
+li {
+    display:inline;
+    padding-right:20px;
+}
+
+a {
+    color: #818181;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #adadad;
+    text-decoration: underline;
+}
+
+/* These are my custom fonts */
+
+#ultra {
+    font-family: 'Ultra', serif;
+    font-size:6em;
+    color:#505050;
+    
+}
+
+#lobster_two {
+    font-family: 'Lobster Two', cursive;
+    font-size:1.75em;
+}
+
+#oswald {
+   font-family: 'Oswald', sans-serif;
+   text-align:center;
+   font-size:3em;
+   color: #0c0c0c;
+   
+}
+
+#josefin {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #dededd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
